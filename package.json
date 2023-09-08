@@ -1,0 +1,36 @@
+{
+	"name": "mytheme",
+	"displayName": "Matt's Theme",
+	"description": "A theme based on the react developer rocs",
+	"version": "0.0.1",
+  "publisher": "Matthew Bramich",
+  "author": {
+    "name":"Matthew Bramich"
+  },
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"categories": [
+		"Themes"
+	],
+  "galleryBanner": {
+    "color":"#23272d",
+    "theme": "dark"
+  },
+  "keywords": [
+    "React Theme",
+    "React Docs",
+    "React Dev",
+    "Dark Theme",
+    "mjbramich"
+  ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Matt's Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Matt's Theme-color-theme.json"
+			}
+		]
+	}
+}
