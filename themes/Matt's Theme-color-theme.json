@@ -809,7 +809,7 @@
 		{
 			"scope": ["variable"],
 			"settings": {
-				"foreground": "#DFAB5C"
+				"foreground": "#dfe2e7"
 			}
 		},
 		{
@@ -1847,6 +1847,7 @@
 				"foreground": "#DFE2E7"
 			}
 		},
+
 		{
 			"scope": "variable.other.object",
 			"settings": {
