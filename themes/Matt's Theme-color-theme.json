@@ -1,6 +1,7 @@
 {
 	"name": "Matt's Theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.background": "#23272f",
 		"activityBar.border": "#23272f",
